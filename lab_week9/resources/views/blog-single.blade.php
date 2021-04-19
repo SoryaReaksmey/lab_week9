@@ -3,7 +3,7 @@
 @section('content')
   <main id="main">
 
-    <!-- ======= Intro Single ======= -->
+    <!-- ======= Intro       Single ======= -->
     <section class="intro-single">
       <div class="container">
         <div class="row">
